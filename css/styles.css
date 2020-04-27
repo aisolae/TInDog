@@ -1,0 +1,16 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background-color: #EC3E6C;
+    color: aliceblue;;
+    height: 650px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+img[alt~='iphone-mockup']{
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+
+}
