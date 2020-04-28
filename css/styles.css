@@ -4,7 +4,7 @@ body{
 #title{
     background-color: #EC3E6C;
     color: aliceblue;;
-    height: 650px;
+    height: 680px;
     font-family: 'Ubuntu', sans-serif;
 
 }
@@ -12,5 +12,26 @@ body{
 img[alt~='iphone-mockup']{
     -ms-transform: rotate(20deg);
     transform: rotate(20deg);
+    position: absolute;
 
 }
+
+#features{
+   text-align: center;
+    padding: 10% 3% 10% 3%;
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    position: relative;
+}
+
+div.col-sm-4.features-card{
+ padding: 40px;
+}
+
+#features i{
+    color:  #EC3E6C;
+
+}
+
+
+
