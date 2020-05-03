@@ -31,7 +31,7 @@ div.col-sm-4.features-card{
 #features i{
     color:  #EC3E6C;
 }
-#testimonials, #press{
+#testimonials, #press,  #cta{
     padding: 3%;
     background-color: #E27675;
     text-align: center;
@@ -39,8 +39,14 @@ div.col-sm-4.features-card{
 #press img{
     padding: 10px;
 }
-#pricing{
-    /*text-align: center;*/
-    font-family: 'Montserrat', sans-serif;
 
+#cta{
+   background-color:  #EC3E6C;
+    padding: 3%;
+}
+#cta h3{
+    width: 50%;
+  margin: auto;
+    padding: 5% 0 3% 0 ;
+    font-family: 'Ubuntu', sans-serif;
 }
