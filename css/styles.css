@@ -30,8 +30,12 @@ div.col-sm-4.features-card{
 
 #features i{
     color:  #EC3E6C;
-
 }
-
-
-
+#testimonials, #press{
+    padding: 3%;
+    background-color: #E27675;
+    text-align: center;
+}
+#press img{
+    padding: 10px;
+}
