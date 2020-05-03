@@ -39,3 +39,8 @@ div.col-sm-4.features-card{
 #press img{
     padding: 10px;
 }
+#pricing{
+    /*text-align: center;*/
+    font-family: 'Montserrat', sans-serif;
+
+}
