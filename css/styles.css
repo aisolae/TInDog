@@ -18,7 +18,7 @@ img[alt~='iphone-mockup']{
 
 #features{
    text-align: center;
-    padding: 10% 3% 10% 3%;
+    padding: 10% 3% 8% 3%;
     font-family: 'Montserrat', sans-serif;
     background-color: white;
     position: relative;
@@ -26,6 +26,9 @@ img[alt~='iphone-mockup']{
 
 div.col-sm-4.features-card{
  padding: 40px;
+}
+#testimonials img{
+    width: 15%;
 }
 
 #features i{
